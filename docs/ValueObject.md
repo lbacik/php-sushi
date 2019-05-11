@@ -2,8 +2,8 @@
 
 ## Instalation
 
-Value Object on packagist: https://packagist.org/packages/lbacik/value-object.
-To install it you can use [composer](https://getcomposer.org):
+Value Object on packagist: [https://packagist.org/packages/lbacik/value-object](https://packagist.org/packages/lbacik/value-object).
+To install it with [composer](https://getcomposer.org):
 
     composer require lbacik/value-object
 
@@ -58,3 +58,7 @@ checked in "validation" function which is invoked in ValueObject's `__construct`
 has been implemented in validator: `IlluminateValidationValidator` which is available as a separate package: 
 [value-object-illuminate-validation](https://github.com/lbacik/value-object-illuminate-validation).
 
+Of course nesting the Value Objects should also work (the comparison function - implemented by `isEqual` method - 
+can be checked in test: [ValueObjectEqualTest](https://github.com/lbacik/value-object/blob/master/tests/Sushi/ValueObjectEqualTest.php)):
+
+{% gist 79ca11146ca17501f7e025f2c887f42c %}
