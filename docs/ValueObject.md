@@ -1,4 +1,4 @@
-# Value Objects
+# Value Object
 
 ## Instalation
 
@@ -9,19 +9,7 @@ To install it you can use [composer](https://getcomposer.org):
 
 ## Example
 
-```php
-use Sushi\ValueObject;
-
-class ExampleValueObject extends ValueObject
-{
-    protected $keys = [
-        'firstname',
-        'lastname',
-        'city',
-        'occupation',
-    ]
-}
-```
+{% gist 33ffb3c1f32b5a8db4de083719fa602c %}
  
 ### Validators 
 
