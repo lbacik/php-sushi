@@ -1,5 +1,7 @@
 # Value Object
 
+GitHub repository: [https://github.com/lbacik/value-object](https://github.com/lbacik/value-object).
+
 ## Instalation
 
 Value Object on packagist: [https://packagist.org/packages/lbacik/value-object](https://packagist.org/packages/lbacik/value-object).
