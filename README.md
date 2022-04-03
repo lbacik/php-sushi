@@ -6,3 +6,5 @@ Below you can find links for particular projects/experiments with a short descri
 
 * [Value Object](docs/ValueObject.md) - my implementation of [ValueObjects](https://en.wikipedia.org/wiki/Value_object) 
 in PHP.
+* [Value Object with Illumination Validator](docs/ValueObjectIlluminationValidator.md) -  
+* Value Object benchmarks [TODO] 
