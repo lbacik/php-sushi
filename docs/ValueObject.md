@@ -31,4 +31,4 @@ From version 1.0 a completely new implementation approach has been introduced!
 
 ## Versions 0.x
 
-The old description (concerning to the first approach used) can be found here: [ValueObject 0.x](ValueObject-0x.md)
+The old description (concerning the first approach used) can be found here: [ValueObject 0.x](ValueObject-0x.md)
